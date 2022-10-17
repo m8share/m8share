@@ -2,6 +2,8 @@
 
 M8share aims to connect people with spaces, giving those who are less fortunate or in need of more space a chance to still enjoy certain facilities that they don't have access to, and by doing so, bringing people closer within their community. Our aim is not just to have a positive impact on people's lives, but also have a positive impact on our culture.
 
+M8share has the widest range of spaces for any occasion. Find anything from finding storage, security, restaurant for group bookings, gardens, venues, rooms, and catering spaces, and if you can’t find it on M8share, our concierge team will help. M8share provides you with amazing diversity and a breadth of choice all in one place.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m8share)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/M8share/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/M8share)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m8share_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/M8share)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://m8share.com/)  
